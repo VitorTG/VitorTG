@@ -1,3 +1,3 @@
-Vitor Tavares Gonçalves
-25 anos
-Engenharia de Controle e Automação UFOP
+Vitor Tavares Gonçalves; 
+25 ano;
+Engenharia de Controle e Automação;
