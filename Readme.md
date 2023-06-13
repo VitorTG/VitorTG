@@ -1,4 +1,3 @@
-Primeiro projeto de configuração do Git.
-Primeira Mudança.
-Segunda Mudança.
-Mudança feita no GITHUB.
+Vitor Tavares Gonçalves
+25 anos
+Engenharia de Controle e Automação UFOP
